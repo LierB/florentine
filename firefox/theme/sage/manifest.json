@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Florentine sage",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(47, 57, 67)",
+      "toolbar_text": "rgb(254, 251, 242)",
+      "frame": "rgb(47, 57, 67)",
+      "tab_background_text": "rgb(254, 251, 242)",
+      "toolbar_field": "rgb(47, 57, 67)",
+      "toolbar_field_text": "rgb(254, 251, 242)",
+      "tab_line": "rgb(47, 57, 67)",
+      "popup": "rgb(47, 57, 67)",
+      "popup_text": "rgb(254, 251, 242)",
+      "icons_attention": "rgb(160, 180, 142)",
+      "ntp_background": "rgb(47, 57, 67)",
+      "ntp_text": "rgb(254, 251, 242)",
+      "popup_highlight_text": "rgb(254, 251, 242)",
+      "popup_highlight": "rgb(160, 180, 142)",
+      "sidebar_border": "rgb(47, 57, 67)",
+      "sidebar_highlight_text": "rgb(254, 251, 242)",
+      "sidebar_highlight": "rgb(160, 180, 142)",
+      "sidebar_text": "rgb(254, 251, 242)",
+      "sidebar": "rgb(47, 57, 67)",
+      "tab_background_separator": "rgb(47, 57, 67)",
+      "tab_loading": "rgb(47, 57, 67)",
+      "tab_selected": "rgb(160, 180, 142)",
+      "tab_text": "rgb(47, 57, 67)",
+      "toolbar_bottom_separator": "rgb(47, 57, 67)",
+      "toolbar_field_border_focus": "rgb(160, 180, 142)",
+      "toolbar_field_border": "rgb(47, 57, 67)",
+      "toolbar_field_focus": "rgb(47, 57, 67)",
+      "toolbar_field_highlight_text": "rgb(32, 38, 45)",
+      "toolbar_field_highlight": "rgb(160, 180, 142)",
+      "toolbar_field_text_focus": "rgb(254, 251, 242)",
+      "toolbar_top_separator": "rgb(47, 57, 67)",
+      "toolbar_vertical_separator": "rgb(47, 57, 67)"
+    }
+  }
+}
