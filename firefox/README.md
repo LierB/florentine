@@ -2,7 +2,7 @@
 
 <p align="center"> minimalist dark themes for an elegant browsing experience<br><br>
 <p align="center">
-<a href="https://addons.mozilla.org/en-US/firefox/addon/florentine/">
+<a href="https://addons.mozilla.org/en-US/firefox/user/18825994/">
 <img src="https://blog.mozilla.org/addons/files/2020/04/get-the-addon-fx-apr-2020.svg" width="99" />
 <br><br>
 
@@ -45,3 +45,8 @@
 ![Florentine-sage](./theme/sage/florentine-sage.png)
 
 **haze** (\#2f3943), **light** (\#fefbf2) and **dusk** (\#20262d) - **sage** (\#a0b48e) for highlights
+
+
+<br><br>
+inspired by [MinimalistFox](https://github.com/canbeardig/MinimalistFox)<br>
+credits to [Canbeardig](https://github.com/canbeardig)
