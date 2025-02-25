@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "name": "Florentine clivia",
   "theme": {
     "images": {},
@@ -18,7 +18,7 @@
       "icons_attention": "rgb(246, 197, 163)",
       "ntp_background": "rgb(47, 57, 67)",
       "ntp_text": "rgb(254, 251, 242)",
-      "popup_highlight_text": "rgb(254, 251, 242)",
+      "popup_highlight_text": "rgb(47, 57, 67)",
       "popup_highlight": "rgb(246, 197, 163)",
       "sidebar_border": "rgb(47, 57, 67)",
       "sidebar_highlight_text": "rgb(254, 251, 242)",
